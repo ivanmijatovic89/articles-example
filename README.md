@@ -5,6 +5,8 @@ In this example we will build simple website using:
 - Boostrap 4 ( css framework )
 - Infinity API as database
 
+We are using Infinity as CMS for *Articles* on the website.
+
 All the logic is located inside `app/Http/Controllers/ArticlesController.php`
 
 Views:
@@ -21,3 +23,8 @@ Frontend (single article)
 ![Board Structure](/imgs/article-frontend.png)
 
 Blog post with more details is coming soon
+
+References:
+- [Infinity website](https://startinfinity.com)
+- [Infinity API Documentation](https://devdocs.startinfinity.com/)
+- [Infinity API](https://startinfinity.com/api)

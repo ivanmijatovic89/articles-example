@@ -13,6 +13,8 @@ Views:
 - `views/articles.blade.php` - all articles view
 - `views/article.blade.php`  - single article view
 
+Run command `php artisan serve` and go to `http://127.0.0.1:8000/`
+
 Infinity App as Database
 ![Board Structure](/imgs/single-article.png)
 
